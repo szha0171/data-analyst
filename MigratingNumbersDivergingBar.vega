@@ -2,8 +2,8 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "A bar chart with negative values. We can hide the axis domain line, and instead use a conditional grid color to draw a zero baseline.",
     "title":"Migrating Numbers In/Out of Continents",
-    "width":500,
-    "height":500,
+    "width":600,
+    "height":200,
     "data": {
       "values": [
         {"a": "Africa", "b": -595390},
